@@ -22,4 +22,3 @@ void main() {
 
   String myName = 'Mohamemd Moussa hmad Mohammed';
   print('$myName has ${countVowels(myName)} vowels');
-}
